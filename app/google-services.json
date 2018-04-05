@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "834446440734",
+    "firebase_url": "https://mytodolist-5db08.firebaseio.com",
+    "project_id": "mytodolist-5db08",
+    "storage_bucket": "mytodolist-5db08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834446440734:android:99cb2bdf2e62ae28",
+        "android_client_info": {
+          "package_name": "com.savingandretrievingdatausingfirebale.mytodolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834446440734-688p7vdu5rq9ohvn2crlv2b6msnh8rm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.savingandretrievingdatausingfirebale.mytodolist",
+            "certificate_hash": "2ed7d70416b0899a3bda1804fdec7bd403efc15e"
+          }
+        },
+        {
+          "client_id": "834446440734-k28o1bvfg5h6nt6g4ir3gtlpnvjb15na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzX1u59bI67gDLnp2ay4uwcgD8Laa-FGM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834446440734-k28o1bvfg5h6nt6g4ir3gtlpnvjb15na.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
